@@ -1,0 +1,7670 @@
+{
+    "3840": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "4080": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "4320": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "4560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "4800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "5040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "5280": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "5520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "5760": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "6000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "6240": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "6480": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "6720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "6960": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "7200": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "7440": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "7500": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "7680": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "7920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "8160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "8400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "8640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "8880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "9120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "9360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "9600": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "9840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "10080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "10320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "10560": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "10800": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "11040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "11280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "11341": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "11520": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "11760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "12000": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "12240": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "12480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "12720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "12960": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "13200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "13440": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "13680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "13920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "14160": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "14400": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "14640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "14880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "15120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "15180": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "15360": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "15600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "15840": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "16080": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "16320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "16560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "16800": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "17040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "17280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "17520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "17760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "18000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "18240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "18480": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "18720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "18960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "19020": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "19200": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "19440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "19680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "19920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "20160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "20400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "20640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "20880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "21120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "21360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "21600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "21840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "22080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "22320": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "22560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "22800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "22860": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "23040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "23280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "23520": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "23760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "24000": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "24240": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "24480": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "24720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "24960": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "25200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "25440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "25680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "25920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "26160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "26400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "26640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "26700": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "26880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "27120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "27360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "27600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "27840": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "28080": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "28320": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "28560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "28800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "29040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "29280": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "29520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "29760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "30000": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "30240": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "30480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "30540": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "30720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "30960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "31200": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "31440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "31680": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "31920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "32160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "32400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "32640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "32880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "33120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "33360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "33600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "33840": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "34080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "34320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "34381": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "34560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "34800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "35040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "35280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "35520": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "35760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "36000": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "36240": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "36480": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "36720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "36960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "37200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "37440": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "37680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "37920": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "38160": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "38400": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "38640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "38880": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "39120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "39360": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "39600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "39840": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "40080": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "40320": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "40560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "40800": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "41040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "41280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "41520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "41760": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "41840": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "41920": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42000": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42080": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42160": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42720": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42840": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "42960": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "43080": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "43200": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "43440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "43680": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "43920": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "44040": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "44160": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "44280": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "44400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "44640": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "44880": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "45120": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "45360": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "45600": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "45840": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "45960": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "46080": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "46320": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "46560": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "46680": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "46800": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "46920": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "47041": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "47280": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "47520": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "47760": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "48240": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "48480": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "48600": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "48720": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "48960": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "49200": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "49320": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "49440": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "49560": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "49680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "49800": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "49920": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "50160": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "50400": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "50640": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "50760": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "50880": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "51120": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "51360": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "51480": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "51600": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "51720": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "51840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "52800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53040": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53280": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53400": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53520": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53640": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "53760": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54360": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54720": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "54960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "55200": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "55440": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "55560": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "55680": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "55920": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "56160": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "56280": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "56400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "56640": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "56880": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "57000": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "57120": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "57240": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "57360": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "57480": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "57600": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "57840": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "58080": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "58200": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "58320": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "58560": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "58800": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "59040": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "59280": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "59760": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "60000": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "60120": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "60240": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "60480": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "60720": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "60840": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "60960": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "61080": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "61200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "61320": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "61440": [
+        false,
+        true,
+        true,
+        true,
+        false
+    ],
+    "61680": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "61920": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "62160": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "62280": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "62400": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "62640": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "62880": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63000": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63120": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63240": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63360": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63600": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "63960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "64920": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "65040": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "65160": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "65280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "65520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "65760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "66000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "66240": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "66480": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "66720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "66960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "67200": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "67440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "67680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "67920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "68160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "68400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "68640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "68880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "69120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "69360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "69600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "69840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "70080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "70320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "70560": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "70800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "71040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "71280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "71520": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "71760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "72000": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "72240": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "72480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "72720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "72780": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "72960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "73200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "73440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "73680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "73920": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "74160": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "74400": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "74640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "74880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "75120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "75360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "75600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "75840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "76080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "76320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "76560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "76620": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "76800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "77040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "77280": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "77520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "77760": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "78000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "78240": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "78480": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "78720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "78960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "79200": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "79440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "79680": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "79920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "80160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "80400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "80460": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "80640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "80880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "81120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "81360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "81600": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "81840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "82080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "82320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "82560": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "82800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "83040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "83280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "83520": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "83760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "84000": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "84240": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "84300": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "84480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "84720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "84960": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "85200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "85440": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "85680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "85920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "86160": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "86401": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "86640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "86880": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "87120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "87360": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "87600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "87840": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "88080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "88140": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "88320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "88560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "88800": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "89040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "89280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "89520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "89760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "90000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "90240": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "90480": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "90720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "90960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "91200": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "91440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "91680": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "91920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "92160": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "92400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "92640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "92880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "93120": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "93360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "93600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "93840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "94080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "94320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "94560": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "94800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "95040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "95280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "95520": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "95600": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "95680": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "95760": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "95840": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "95920": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96600": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96720": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96840": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "96960": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "97200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "97440": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "97680": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "97800": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "97920": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "98040": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "98160": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "98400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "98640": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "98880": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "99120": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "99360": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "99600": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "99720": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "99840": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100080": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100320": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100440": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100560": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100679": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "100800": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "101040": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "101280": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "101520": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "102000": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "102240": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "102360": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "102480": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "102720": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "102960": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "103080": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "103200": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "103320": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "103440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "103560": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "103680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "103920": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "104160": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "104400": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "104520": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "104640": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "104880": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "105120": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "105240": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "105360": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "105480": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "105600": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "105840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "106800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "107040": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "107160": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "107280": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "107400": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "107520": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "107760": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "108000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "108120": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "108240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "108480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "108720": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "108960": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "109200": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "109320": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "109440": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "109680": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "109920": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "110040": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "110160": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "110400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "110640": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "110760": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "110880": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "111000": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "111120": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "111240": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "111360": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "111600": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "111840": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "111960": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "112080": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "112200": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "112320": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "112560": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "112800": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "113040": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "113520": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "113760": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "113880": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "114000": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "114240": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "114480": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "114600": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "114720": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "114840": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "114960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "115080": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "115200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "115440": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "115680": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "115920": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "116040": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "116160": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "116400": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "116640": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "116760": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "116880": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117000": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117120": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117360": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117600": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117720": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "117960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "118920": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "119280": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "119760": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "120240": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "120360": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "120600": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "120720": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "120840": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "121200": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "121680": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "122160": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "122280": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "122520": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "122640": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "122760": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "123120": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "123600": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "124080": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "124200": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "124440": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "124560": [
+        true,
+        true,
+        false,
+        true,
+        false
+    ],
+    "124800": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "124960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "125120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "125280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "125439": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "125600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "125760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "126960": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "127040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "127120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "127200": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "129120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "131040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "132720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "132840": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "132960": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "133920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "134880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "134941": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "136560": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "136640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "136800": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "138480": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "138560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "138720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "140400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "140480": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "140640": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "141600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "142560": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "142681": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "142800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "142920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "143040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "143160": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "143280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "143400": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "143520": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "143640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "143760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "143880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "144000": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "144120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "144240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "144360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "144480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "144600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "144720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "144840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "144960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "145080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "145200": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "145321": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "145440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "145560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "145680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "145800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "145920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "146040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "146160": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "146280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "146400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "146520": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "146640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "146760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "146880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "146999": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "147120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "147240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "147360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "147480": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "147600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "147720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "147840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "147960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "148080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "148201": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "148320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "148440": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "148560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "148680": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "148800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "148920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "149040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "149160": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "149280": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "149400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "149520": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "149640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "149760": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "149879": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "150000": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "150120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "150240": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "150360": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "150480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "150600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "150720": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "150840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "150960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "151080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "151200": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "151320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "151440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "151560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "151680": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "151800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "151920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "152040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "152160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "152280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "152400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "152520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "152640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "152760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "152880": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "153000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "153121": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "153240": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "153360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "153481": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "153600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "153720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "153840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "153960": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "154080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "154200": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "154320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "154440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "154560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "154680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "154800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "154920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "155040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "155160": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "155280": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "155400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "155520": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "155640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "155760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "155880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "156000": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "156361": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "156720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "157120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "157440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "157520": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "157920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "158039": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "158280": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "158340": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "158400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "158640": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "159120": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "159241": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "159360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "159480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "159600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "159720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "159840": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "160080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "160200": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "160320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "160560": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "161040": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "161120": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "161400": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "161760": [
+        false,
+        false,
+        true,
+        true,
+        false
+    ],
+    "161820": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "162240": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "162720": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "162781": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "163200": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "163680": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "163741": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "164160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "164640": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "164701": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "165120": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "165600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "165840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "165961": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "166080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "166200": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "166320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "166560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "166680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "166800": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "166921": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "167040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "167160": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "167280": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "167401": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "167520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "167640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "167760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "167881": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "168000": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "168120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "168240": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "168361": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "168480": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "168600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "168720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "168841": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "168960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "169080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "169200": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "169440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "169520": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "169600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "169680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "169760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "169840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "169920": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "170000": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "170080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "170160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "170240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "170320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "170400": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "170480": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "170560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "170640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "170720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "170800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "170880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "170960": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "171041": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "171120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "171200": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "171280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "171360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "171440": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "171520": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "171600": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "171680": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "171760": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "171840": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "171920": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "172000": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "172080": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "172160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "172240": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "172320": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "172400": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "172480": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "172560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "172640": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "172720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "172800": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "172880": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "172960": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "173040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "173120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "173200": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "173280": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "173360": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "173440": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "173520": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "173600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "173680": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "173760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "173840": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "173920": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "174000": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "174080": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "174160": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "174240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "174320": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "174400": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "174480": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "174560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "174640": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "174720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "174800": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "174880": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "174960": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "175040": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "175120": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "175200": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "175280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "175360": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "175440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "175520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "175600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "175680": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "175760": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "175840": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "175920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "176000": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "176080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "176160": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176240": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176320": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176400": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176480": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176560": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "176640": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "176880": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "177000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "177120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "177239": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "177360": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "177480": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "177600": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "177720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "177840": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "177960": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "178080": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "178200": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "178320": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "178441": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "178560": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "178800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "178920": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "179040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "179159": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "179280": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "179400": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "179520": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "179640": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "179760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "179880": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "180000": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "180120": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "180240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "180361": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "180480": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "180720": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "180960": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181200": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181440": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181560": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181680": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181800": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "181920": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "182160": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "182400": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "182640": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "182760": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "182880": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "183120": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "183360": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "183480": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "183600": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "183840": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "184080": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "184200": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "184320": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "184560": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "184680": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "184800": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185040": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185280": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185400": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185520": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185640": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "185760": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "186000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "186240": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "186480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "186960": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "187200": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "187320": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "187440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "187680": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "187920": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "188040": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "188160": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "188280": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "188400": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "188520": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "188640": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "188880": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "189120": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "189360": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "189480": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "189600": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "189840": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "190080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "190200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "190320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "190440": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "190560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "190800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191040": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191161": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191280": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191400": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191520": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "191760": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "192000": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "192120": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "192240": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "192360": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "192480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "192720": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "192960": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "193080": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "193200": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "193440": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "193680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "193920": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "194160": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "194280": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "194400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "194640": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "194880": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "195000": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "195120": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "195360": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "195600": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "195719": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "195840": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "195960": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "196080": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "196200": [
+        false,
+        false,
+        false,
+        true,
+        true
+    ],
+    "196320": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "196560": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "196800": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "196920": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "197040": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "197280": [
+        false,
+        true,
+        false,
+        true,
+        true
+    ],
+    "197520": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "197760": [
+        true,
+        true,
+        true,
+        false,
+        false
+    ],
+    "198000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "198119": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "198240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "198480": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "198720": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "198960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "199200": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199320": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199440": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199560": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199680": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199800": [
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "199920": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "200040": [
+        false,
+        true,
+        true,
+        false,
+        false
+    ],
+    "200160": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "200400": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "200640": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "200880": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "201000": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "201120": [
+        true,
+        false,
+        true,
+        false,
+        false
+    ],
+    "201360": [
+        true,
+        false,
+        false,
+        true,
+        false
+    ],
+    "201600": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "201719": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "201840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "201960": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202080": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202320": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202560": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202800": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "202920": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203040": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203160": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203280": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203520": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203680": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "203840": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "204000": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204240": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204480": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204600": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204720": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204840": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "204960": [
+        true,
+        false,
+        true,
+        true,
+        false
+    ],
+    "205200": [
+        false,
+        true,
+        false,
+        true,
+        false
+    ],
+    "205440": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "205680": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "205800": [
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "205920": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "206160": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "206400": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "206520": [
+        false,
+        true,
+        true,
+        false,
+        true
+    ],
+    "206640": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "206760": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "206880": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "207120": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "207360": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "207600": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "208320": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "208440": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "208560": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "208680": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "208800": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "209040": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "209280": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "209520": [
+        true,
+        false,
+        false,
+        false,
+        false
+    ],
+    "209600": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "210240": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "210720": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "210960": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "211200": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "211440": [
+        false,
+        false,
+        false,
+        true,
+        false
+    ],
+    "211520": [
+        false,
+        false,
+        false,
+        false,
+        true
+    ],
+    "212000": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true
+    ],
+    "212300": [
+        false,
+        false,
+        true,
+        false,
+        false
+    ],
+    "215400": [
+        false,
+        true,
+        false,
+        false,
+        false
+    ],
+    "215520": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        true
+    ],
+    "215640": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+    ]
+}
